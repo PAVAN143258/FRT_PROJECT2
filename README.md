@@ -1,4 +1,4 @@
-## frt2:Future ready talent project by Sukritan gupta.
+## Future ready talent project 
 Here i create a fashion store web apps named dress-up that helps the customer to find good products in cheap rates and genuine product.
 
 ## my website link:https://wonderful-meadow-082763410.1.azurestaticapps.net
